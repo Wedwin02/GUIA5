@@ -33,7 +33,7 @@
                 android:textStyle="bold|italic" />
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/btnDatos"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -45,7 +45,7 @@
                 />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/btnConversacion"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -57,7 +57,7 @@
                 />
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/btnLogin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
@@ -68,7 +68,7 @@
                 android:textColor="@drawable/txtcambios"/>
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/btnCalculadora"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
